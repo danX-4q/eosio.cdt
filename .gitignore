@@ -36,3 +36,7 @@
 
 # Build
 build/*
+
+# vscode
+.vscode/*
+
