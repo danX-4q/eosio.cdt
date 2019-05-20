@@ -208,7 +208,6 @@ transaction_size
 expiration
 tapos_block_prefix
 tapos_block_num
-get_txid_confirmations
 get_action
 send_inline
 send_context_free_inline
